@@ -1,4 +1,4 @@
-🚀 4 Bit & 8 Bit ALU Calculator – Proteus Edition
+## 4 Bit & 8 Bit ALU Calculator – Proteus Edition
 Welcome to the Digital Logic Design Lab Project—a hands on simulation of a powerful 4 bit and 8 bit ALU using Proteus. Whether you're crunching binary operations or designing logic based systems, this ALU gives you a clean, modular, and simulation ready workspace to master the fundamentals of digital logic!
 
 🎯 What’s Inside?

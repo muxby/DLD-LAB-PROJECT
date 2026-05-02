@@ -1,5 +1,5 @@
-🚀 4-Bit & 8-Bit ALU Calculator – Proteus Edition
-Welcome to the Digital Logic Design Lab Project—a hands-on simulation of a powerful 4-bit and 8-bit ALU using Proteus. Whether you're crunching binary operations or designing logic-based systems, this ALU gives you a clean, modular, and simulation-ready workspace to master the fundamentals of digital logic!
+🚀 4 Bit & 8 Bit ALU Calculator – Proteus Edition
+Welcome to the Digital Logic Design Lab Project—a hands on simulation of a powerful 4 bit and 8 bit ALU using Proteus. Whether you're crunching binary operations or designing logic based systems, this ALU gives you a clean, modular, and simulation ready workspace to master the fundamentals of digital logic!
 
 🎯 What’s Inside?
 This ALU project delivers:
@@ -8,7 +8,7 @@ Arithmetic Ops: Add, Subtract, Multiply
 
 Logic Ops: AND, OR, NOT, XOR, NAND, NOR
 
-4-bit & 8-bit Variants: Two dedicated Proteus projects for small and large calculations
+4 bit & 8 bit Variants: Two dedicated Proteus projects for small and large calculations
 
 Fully Simulated: Run circuits, view outputs, and debug interactively in Proteus
 
@@ -16,9 +16,9 @@ Modular Setup: Organized project backups and workspace tracking for development 
 
 Project Structure
 
-├── 4bit.pdsprj                     # Main 4-bit ALU simulation project
+├── 4bit.pdsprj                     # Main 4 bit ALU simulation project
 
-├── 8Bit Final.pdsprj              # Main 8-bit ALU simulation project
+├── 8Bit Final.pdsprj              # Main 8 bit ALU simulation project
 
 ├── Physical.pdsprj                # Optional: Physical layout or hardware mapping
 
@@ -38,7 +38,7 @@ Give the ALU two inputs (A and B) using switches or HEX displays and select the 
 Sample Operations:
 Addition: A + B → Result + Carry
 
-Subtraction: A - B → Result + Borrow
+Subtraction: A   B → Result + Borrow
 
 Logic Operations: A XOR B, A AND B, etc.
 
